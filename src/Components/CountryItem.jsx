@@ -1,3 +1,5 @@
+import PropTypes from "prop-types";
+
 import styles from "./CountryItem.module.css";
 
 function CountryItem({ country }) {
@@ -9,4 +11,7 @@ function CountryItem({ country }) {
   );
 }
 
+CountryItem.propTypes = {
+  country: PropTypes.arrayOf(PropTypes.array).isRequired,
+};
 export default CountryItem;
