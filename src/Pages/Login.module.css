@@ -24,3 +24,6 @@
   flex-direction: column;
   gap: 0.5rem;
 }
+.bb {
+  width: 80px;
+}
