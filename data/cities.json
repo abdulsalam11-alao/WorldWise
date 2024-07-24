@@ -73,76 +73,16 @@
       "id": 98443198
     },
     {
-      "cityName": "Improvement District No. 24 Wood Buffalo",
-      "country": "Canada",
-      "emoji": "🇨🇦",
-      "date": "2024-07-24T01:54:51.601Z",
+      "cityName": "Lagos",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2024-07-24T13:43:10.774Z",
       "notes": "",
       "position": {
-        "lat": "59.53595849864371",
-        "lng": "-114.78515625000001"
+        "lat": "6.447880289195275",
+        "lng": "3.389722844722938"
       },
       "id": 98443199
-    },
-    {
-      "cityName": "Improvement District No. 24 Wood Buffalo",
-      "country": "Canada",
-      "emoji": "🇨🇦",
-      "date": "2024-07-24T01:54:51.601Z",
-      "notes": "",
-      "position": {
-        "lat": "59.53595849864371",
-        "lng": "-114.78515625000001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Hassi Messaoud",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2024-07-24T01:59:00.017Z",
-      "notes": "",
-      "position": {
-        "lat": "30.010048373776524",
-        "lng": "5.625"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Korsze",
-      "country": "Poland",
-      "emoji": "🇵🇱",
-      "date": "2024-07-24T01:59:15.240Z",
-      "notes": "",
-      "position": {
-        "lat": "54.16649889576288",
-        "lng": "21.093750000000004"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-24T02:04:14.958Z",
-      "notes": "",
-      "position": {
-        "lat": "39.98819535482761",
-        "lng": "-0.02798080444335938"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Meillard",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-07-24T02:07:06.978Z",
-      "notes": "",
-      "position": {
-        "lat": "46.37999798701922",
-        "lng": "3.2080078125000004"
-      },
-      "id": 98443204
     }
   ]
 }
